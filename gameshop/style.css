@@ -1,0 +1,72 @@
+body{
+    background:#6C5CE7;
+}
+
+.img1{
+    position: absolute;
+    width: 299px;
+    height: 168px;
+    left: 563px;
+    top: 130px;
+}
+
+.title{
+    position: absolute;
+    width: 299px;
+    height: 168px;
+    left: 563px;
+    top: 240px;
+
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 71px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.bemvindo{
+    position: absolute;
+width: 473px;
+height: 124px;
+left: 515px;
+top: 350px;
+
+font-family: 'Passero One';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+
+.botao1{
+    position: absolute;
+width: 250px;
+height: 150px;
+left: 570px;
+top: 600px;
+align-items: center
+}
+
+.a1{
+width: 150px;
+height: 150px;
+left: 601px;
+top: 758px;
+
+font-family: 'Passero One';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+
+}
+

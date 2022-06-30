@@ -1,0 +1,160 @@
+.container{
+    position: absolute;
+    width: 490px;
+    height: 100px;
+    left: 480px;
+    top: 50px;
+
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+
+    background: #D9D9D9;
+    border-radius: 10px;
+}
+
+.cpf{
+    position: absolute;
+    width: 196px;
+    height: 68px;
+    left: 0px;
+    top: 440px;
+
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;  
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.telefone{
+    position: absolute;
+    width: 196px;
+    height: 69px;
+    left: 0px;
+    top: 550px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+    
+.nome{
+    position: absolute;
+    width: 198px;
+    height: 69px;
+    left: 0px;
+    top: 704px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.pagqrcode{
+    position: absolute;
+    width: 303px;
+    height: 90px;
+    left: 1083px;
+    top: 300px;
+
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.qrcode{
+    position: absolute;
+    width: 411px;
+    height: 466px;
+    left: 1029px;
+    top: 420px;
+}
+
+.botaopagar{
+    position: absolute;
+    width: 250px;
+    height: 99px;
+    left: 590px;
+    top: 923px;
+    
+    background: #1EEB3F;
+    border-radius: 10px;
+}
+
+.textpagar{
+    width: 391px;
+    height: 101px;
+    left: 508px;
+    top: 923px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.CPF{
+    position: absolute;
+    width: 480px;
+    height: 66px;
+    left: 110px;
+    top: 440px;
+
+    font-family: 'Passero One'; 
+    font-size: 45px;
+    border-radius: 10px;
+}
+
+.TELEFONE{
+    position: absolute;
+    width: 480px;
+    height: 67px;
+    left: 110px;
+    top: 550px;
+    
+    font-family: 'Passero One'; 
+    font-size: 45px;
+    border-radius: 10px;
+}
+
+.NomeCompleto{
+    position: absolute;
+    width: 480px;
+    height: 66px;
+    left: 110px;
+    top: 707px;
+
+    font-family: 'Passero One'; 
+    font-size: 45px;
+    border-radius: 10px;
+}

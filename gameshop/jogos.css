@@ -1,0 +1,341 @@
+.p{
+    position: absolute;
+width: 690px;
+height: 105px;
+left: 520px;
+
+font-family: 'Passero One';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FF0606;
+}
+
+.img1{
+    position: absolute;
+width: 177px;
+height: 230px;
+left: 74px;
+top: 210px;
+}
+
+.p1{
+    position: absolute;
+width: 215px;
+height: 66px;
+left: 55px;
+top: 435px;
+
+font-family: 'Passero One';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+
+.botao1{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 64px;
+    top: 525px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img2{
+    position: absolute;
+width: 177px;
+height: 230px;
+left: 600px;
+top: 210px;
+}
+
+.p2{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 600px;
+    top: 430px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao2{
+    position: absolute;
+width: 196px;
+height: 46px;
+left: 590px;
+top: 525px;
+
+background: #1DC52D;
+border-radius: 5px;
+}
+
+.img3{
+    position: absolute;
+    width: 177px;
+    height: 230px;
+    left: 1150px;
+    top: 210px;
+}
+
+.p3{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 1150px;
+    top: 430px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao3{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 1160px;
+    top: 530px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img4{
+    position: absolute;
+    width: 177px;
+    height: 230px;
+    left: 74px;
+    top: 640px;
+}
+
+.p4{
+    position: absolute;
+    width: 215px;
+    height: 66px;
+    left: 55px;
+    top: 860px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao4{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 60px;
+    top: 960px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img5{
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 600px;
+    top: 640px;
+}
+
+.p5{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 600px;
+    top: 870px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao5{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 600px;
+    top: 960px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img6{
+    position: absolute;
+    width: 177px;
+    height: 230px;
+    left: 1150px;
+    top: 650px;
+}
+
+.p6{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 1150px;
+    top: 870px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao6{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 1160px;
+    top: 960px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img7{
+    position: absolute;
+    width: 177px;
+    height: 230px;
+    left: 74px;
+    top: 1080px;
+}
+
+.p7{
+    position: absolute;
+    width: 215px;
+    height: 66px;
+    left: 55px;
+    top: 1280px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao7{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 60px;
+    top: 1415px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img8{
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 600px;
+    top: 1080px;
+}
+
+.p8{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 570px;
+    top: 1310px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao8{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 595px;
+    top: 1415px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
+
+.img9{
+    position: absolute;
+    width: 177px;
+    height: 230px;
+    left: 1165px;
+    top: 1100px;
+}
+
+.p9{
+    position: absolute;
+    width: 254px;
+    height: 66px;
+    left: 1130px;
+    top: 1310px;
+    
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.botao9{
+    position: absolute;
+    width: 196px;
+    height: 46px;
+    left: 1160px;
+    top: 1415px;
+    
+    background: #1DC52D;
+    border-radius: 5px;
+}
